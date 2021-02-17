@@ -1,0 +1,11 @@
+C:\Users\ACER\Desktop\WinForm\View\bin\Debug\View.exe.config
+C:\Users\ACER\Desktop\WinForm\View\bin\Debug\View.exe
+C:\Users\ACER\Desktop\WinForm\View\bin\Debug\View.pdb
+C:\Users\ACER\Desktop\WinForm\View\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\WinForm\View\obj\Debug\View.Form1.resources
+C:\Users\ACER\Desktop\WinForm\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\ACER\Desktop\WinForm\View\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\WinForm\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\WinForm\View\obj\Debug\View.exe
+C:\Users\ACER\Desktop\WinForm\View\obj\Debug\View.pdb
+C:\Users\ACER\Desktop\WinForm\View\obj\Debug\View.Form2.resources

@@ -1,0 +1,12 @@
+C:\Users\ACER\Desktop\WinForm\MyPlan\bin\Debug\MyPlan.exe.config
+C:\Users\ACER\Desktop\WinForm\MyPlan\bin\Debug\MyPlan.exe
+C:\Users\ACER\Desktop\WinForm\MyPlan\bin\Debug\MyPlan.pdb
+C:\Users\ACER\Desktop\WinForm\MyPlan\obj\Debug\MyPlan.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\WinForm\MyPlan\obj\Debug\MyPlan.Form1.resources
+C:\Users\ACER\Desktop\WinForm\MyPlan\obj\Debug\MyPlan.Properties.Resources.resources
+C:\Users\ACER\Desktop\WinForm\MyPlan\obj\Debug\MyPlan.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\WinForm\MyPlan\obj\Debug\MyPlan.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\WinForm\MyPlan\obj\Debug\MyPlan.exe
+C:\Users\ACER\Desktop\WinForm\MyPlan\obj\Debug\MyPlan.pdb
+C:\Users\ACER\Desktop\WinForm\MyPlan\obj\Debug\MyPlan.Job.resources
+C:\Users\ACER\Desktop\WinForm\MyPlan\obj\Debug\MyPlan.Plan.resources

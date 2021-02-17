@@ -1,0 +1,10 @@
+C:\Users\ACER\Desktop\WinForm\Dictionary\bin\Debug\Dictionary.exe.config
+C:\Users\ACER\Desktop\WinForm\Dictionary\bin\Debug\Dictionary.exe
+C:\Users\ACER\Desktop\WinForm\Dictionary\bin\Debug\Dictionary.pdb
+C:\Users\ACER\Desktop\WinForm\Dictionary\obj\Debug\Dictionary.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\WinForm\Dictionary\obj\Debug\Dictionary.FormDictionary.resources
+C:\Users\ACER\Desktop\WinForm\Dictionary\obj\Debug\Dictionary.Properties.Resources.resources
+C:\Users\ACER\Desktop\WinForm\Dictionary\obj\Debug\Dictionary.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\WinForm\Dictionary\obj\Debug\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\WinForm\Dictionary\obj\Debug\Dictionary.exe
+C:\Users\ACER\Desktop\WinForm\Dictionary\obj\Debug\Dictionary.pdb

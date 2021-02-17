@@ -1,0 +1,10 @@
+C:\Users\ACER\Desktop\WinForm\Notepad\bin\Debug\Notepad.exe.config
+C:\Users\ACER\Desktop\WinForm\Notepad\bin\Debug\Notepad.exe
+C:\Users\ACER\Desktop\WinForm\Notepad\bin\Debug\Notepad.pdb
+C:\Users\ACER\Desktop\WinForm\Notepad\obj\Debug\Notepad.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\WinForm\Notepad\obj\Debug\Notepad.FormNotepad.resources
+C:\Users\ACER\Desktop\WinForm\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+C:\Users\ACER\Desktop\WinForm\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\WinForm\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\WinForm\Notepad\obj\Debug\Notepad.exe
+C:\Users\ACER\Desktop\WinForm\Notepad\obj\Debug\Notepad.pdb

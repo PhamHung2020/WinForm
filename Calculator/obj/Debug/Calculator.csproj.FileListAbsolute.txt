@@ -1,0 +1,10 @@
+C:\Users\ACER\Desktop\WinForm\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\ACER\Desktop\WinForm\Calculator\bin\Debug\Calculator.exe
+C:\Users\ACER\Desktop\WinForm\Calculator\bin\Debug\Calculator.pdb
+C:\Users\ACER\Desktop\WinForm\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\WinForm\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\ACER\Desktop\WinForm\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\WinForm\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\WinForm\Calculator\obj\Debug\Calculator.exe
+C:\Users\ACER\Desktop\WinForm\Calculator\obj\Debug\Calculator.pdb
+C:\Users\ACER\Desktop\WinForm\Calculator\obj\Debug\Calculator.Calculator.resources

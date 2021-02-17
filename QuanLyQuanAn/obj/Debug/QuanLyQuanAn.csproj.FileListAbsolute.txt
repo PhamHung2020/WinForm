@@ -1,0 +1,13 @@
+C:\Users\ACER\Desktop\WinForm\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe.config
+C:\Users\ACER\Desktop\WinForm\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.exe
+C:\Users\ACER\Desktop\WinForm\QuanLyQuanAn\bin\Debug\QuanLyQuanAn.pdb
+C:\Users\ACER\Desktop\WinForm\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\WinForm\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.FormDangNhap.resources
+C:\Users\ACER\Desktop\WinForm\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.Properties.Resources.resources
+C:\Users\ACER\Desktop\WinForm\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\WinForm\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\WinForm\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.exe
+C:\Users\ACER\Desktop\WinForm\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.pdb
+C:\Users\ACER\Desktop\WinForm\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.ThucDon.resources
+C:\Users\ACER\Desktop\WinForm\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.AddFood.resources
+C:\Users\ACER\Desktop\WinForm\QuanLyQuanAn\obj\Debug\QuanLyQuanAn.ChangeFood.resources
